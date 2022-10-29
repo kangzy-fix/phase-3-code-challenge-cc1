@@ -1,19 +1,10 @@
-require_relative '../config/environment.rb'
+require_relative "../config/environment.rb"
 
 def reload
-  load 'config/environment.rb'
+  load "config/environment.rb"
 end
 
-
 ###  WRITE YOUR TEST CODE HERE ###
-
-
-
-
-
-
-
-
 
 ### DO NOT REMOVE THIS
 binding.pry
